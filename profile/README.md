@@ -33,7 +33,7 @@
   - [ ] 2019-limberger-insitu
   - [ ] 2019-scheibel-hiviser
   - [ ] 2020-fiedler-effectiveness
-  - [ ] 2020-limberger-uncertainty
+  - [x] 2020-limberger-uncertainty
   - [ ] 2020-otto-pbr-lighting
   - [ ] 2020-scheibel-layouts
   - [ ] 2020-scheibel-taxonomy
