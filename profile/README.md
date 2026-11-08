@@ -37,7 +37,7 @@ Works are listed newest first, with their BibTeX key. Works without links are no
 - *Visual Variables and Configuration of Software Maps* – Daniel Limberger et al., Journal of Visualization · `limberger2022-visvars`  
   [DOI](https://doi.org/10.1007/s12650-022-00868-1)
 - *Hardware-accelerated Rendering of Web-based 3D Scatter Plots with Projected Density Fields and Embedded Controls* – Lukas Wagner et al., Web3D · `wagner2022-scatter-plot-density`  
-  [DOI](https://doi.org/10.1145/3564533.3564566)
+  [DOI](https://doi.org/10.1145/3564533.3564566) · [Paper (Zenodo)](https://doi.org/10.5281/zenodo.24061770) · [Sources (GitHub)](https://github.com/dl-archive/article.2022-web3d-scatter-plot-density)
 - *Non-Photorealistic Rendering of 3D Point Clouds for Cartographic Visualization* – Ole Wegen et al., EuroCarto · `wegen2022-pointcloud-cartography`  
   [DOI](https://doi.org/10.5194/ica-abs-5-161-2022)
 - *A Benchmark for the Use of Topic Models for Text Visualization Tasks* – Daniel Atzberger et al., VINCI · `atzberger2022-topicmodel-benchmark`  
