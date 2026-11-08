@@ -38,7 +38,7 @@ Newest first. Status: latest tag · author's version on Zenodo.
 - [`article.2021-ivapp-software-forest`](https://github.com/dl-archive/article.2021-ivapp-software-forest) – v1.1-revised · Zenodo
 - [`article.2021-eurovis-roomcanvas`](https://github.com/dl-archive/article.2021-eurovis-roomcanvas) – v1.1-revised · Zenodo
 - [`poster.2020-web3d-scatter-plot`](https://github.com/dl-archive/poster.2020-web3d-scatter-plot) – v1.0-camera-ready · Zenodo
-- `article.2020-web3d-pbr-lighting` – v1.0-camera-ready (in review)
+- `article.2020-web3d-pbr-lighting` – v1.0-camera-ready (in review) · Zenodo
 - [`article.2020-vinci-uncertainty`](https://github.com/dl-archive/article.2020-vinci-uncertainty) – v1.1-revised · Zenodo
 - `article.2020-vinci-survey-layouts` – not archived yet
 - `article.2020-vinci-survey-effectiveness` – v1.0-camera-ready (in review)
