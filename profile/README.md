@@ -22,7 +22,7 @@ Newest first. Status: latest tag · author's version on Zenodo.
 
 - `thesis.2024-dt-embedded-treemaps` – not archived yet
 - `chapter.2023-ivapp-software-forest-extended` – not archived yet
-- [`article.2022-web3d-scatter-plot-density`](https://github.com/dl-archive/article.2022-web3d-scatter-plot-density) – v1.0-camera-ready · Zenodo
+- [`article.2022-web3d-scatter-plot-density`](https://github.com/dl-archive/article.2022-web3d-scatter-plot-density) – v1.1-revised · Zenodo
 - `article.2022-vinci-topicmodel-benchmark` – not archived yet
 - `journal.2022-jov-visvars` – not archived yet
 - `journal.2022-jov-changes` – not archived yet
@@ -37,12 +37,12 @@ Newest first. Status: latest tag · author's version on Zenodo.
 - `article.2021-vinci-etf-visualization` – not archived yet
 - [`article.2021-ivapp-software-forest`](https://github.com/dl-archive/article.2021-ivapp-software-forest) – v1.1-revised · Zenodo
 - [`article.2021-eurovis-roomcanvas`](https://github.com/dl-archive/article.2021-eurovis-roomcanvas) – v1.1-revised · Zenodo
-- [`poster.2020-web3d-scatter-plot`](https://github.com/dl-archive/poster.2020-web3d-scatter-plot) – v1.0-camera-ready · Zenodo
-- [`article.2020-web3d-pbr-lighting`](https://github.com/dl-archive/article.2020-web3d-pbr-lighting) – v1.0-camera-ready · Zenodo
+- [`poster.2020-web3d-scatter-plot`](https://github.com/dl-archive/poster.2020-web3d-scatter-plot) – v1.1-revised · Zenodo
+- [`article.2020-web3d-pbr-lighting`](https://github.com/dl-archive/article.2020-web3d-pbr-lighting) – v1.1-revised · Zenodo
 - [`article.2020-vinci-uncertainty`](https://github.com/dl-archive/article.2020-vinci-uncertainty) – v1.1-revised · Zenodo
-- `article.2020-vinci-survey-layouts` – not archived yet
-- [`article.2020-vinci-survey-effectiveness`](https://github.com/dl-archive/article.2020-vinci-survey-effectiveness) – v1.0-camera-ready · Zenodo
-- `article.2020-treemap-taxonomy` – not archived yet
+- `article.2020-vinci-survey-layouts` – v1.0-camera-ready (in review)
+- [`article.2020-vinci-survey-effectiveness`](https://github.com/dl-archive/article.2020-vinci-survey-effectiveness) – v1.1-revised · Zenodo
+- `article.2020-treemap-taxonomy` – v1.0-camera-ready (in review)
 - `article.2019-vinci-advanced` – not archived yet
 - `article.2019-ivapp-insitu` – not archived yet
 - `chapter.2019-hiviser-extended` – not archived yet
