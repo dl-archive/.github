@@ -1,56 +1,67 @@
-
 ## Research Archive of Daniel Limberger
 
-#### Process
+LaTeX sources, figures, and talk slides of my publications and theses: one repository per work, each holding the sources as submitted (`v1.0-camera-ready`) and a reproducible build.
+Publication list: [daniellimberger.de](https://daniellimberger.de/) · [ORCID](https://orcid.org/0000-0002-9111-4809)
 
-  1. unify public entries of [ORCID](https://orcid.org/0000-0002-9111-4809) and [portfolio](https://daniellimberger.de/) bibentries
-  2. sanitize *.tex files, i.e., remove all comments and other unused code, remove all unused figures
-  3. create repo on dl-carchive named as <[article|project|misc|poster|...]>.<year>.<some-identifier-such-as-bibkey>
-    1. create readme containging abstract
-    2. add bibentry
+#### Repository contents
 
-#### Status Tracker
+  - `README.md`: title, authors, venue, DOI, abstract, page previews, versions, BibTeX
+  - `src/`: sanitized LaTeX sources (no comments, unused code, figures, or bib entries)
+  - `<bibkey>-as-submitted.pdf`: camera-ready PDF as submitted
+  - `slides/`, `<bibkey>-slides.pdf`: talk slides (LaTeX sources, if available, and PDF)
+  - `build.sh`: reproducible build (TeX Live version of the original submission via container)
 
-// only check if ORCID, Portfolio \*.bib, and paper here are all aligned and check: 
+Tags: `v1.0-camera-ready` (sources as submitted) and, where needed, `v1.x-revised` (typo, grammar, and reference fixes only; layout kept).
+Author versions (PDF and sources) are archived on [Zenodo](https://zenodo.org/).
 
-  - [ ] 2012-limberger-sky-phenomena
-  - [ ] 2013-limberger-interactive
-  - [ ] 2014-limberger-parameter-painting
-  - [ ] 2015-semmo-oilpaint-stylization
-  - [ ] 2015-wuerfel-natural-phenomena
-  - [ ] 2016-limberger-declarative3d
-  - [ ] 2016-limberger-multi-frame
-  - [ ] 2016-limberger-multi-frame-poster
-  - [ ] 2016-limberger-sketchiness
-  - [ ] 2016-semmo-oilpaint-stylization
-  - [ ] 2017-limberger-aggregation
-  - [ ] 2017-limberger-mixed
-  - [ ] 2017-limberger-progressive
-  - [ ] 2018-limberger-filtering
-  - [ ] 2018-limberger-multi-frame-pro
-  - [ ] 2018-limberger-openll
-  - [ ] 2019-limberger-advanced
-  - [ ] 2019-limberger-insitu
-  - [ ] 2019-scheibel-hiviser
-  - [ ] 2020-fiedler-effectiveness
-  - [x] 2020-limberger-uncertainty
-  - [ ] 2020-otto-pbr-lighting
-  - [ ] 2020-scheibel-layouts
-  - [ ] 2020-scheibel-taxonomy
-  - [ ] 2020-wagner-scatter
-  - [ ] 2021-atzberger-forest
-  - [ ] 2021-atzberger-software-galaxy
-  - [ ] 2021-buessemeyer-etf-visualization
-  - [ ] 2021-koenig-roomcanvas
-  - [ ] 2021-kordt-tumor-segmentation
-  - [ ] 2021-limberger-procedural
-  - [ ] 2022-atzberger-knowhow-map
-  - [ ] 2022-atzberger-mining-expertise
-  - [ ] 2022-atzberger-topicmodel-benchmark
-  - [ ] 2022-limberger-changes
-  - [ ] 2022-limberger-visvars
-  - [ ] 2022-thiede-downstream-mining
-  - [ ] 2022-wagner-pointcloud-stylization
-  - [ ] 2022-wagner-scatter-plot-density
-  - [ ] 2022-wegen-pointcloud-cartography
-  - [ ] 2023-atzberger-code-similarity
+Naming: `<type>.<year>-<venue>-<topic>`, where type ∈ {`article`, `journal`, `chapter`, `poster`, `abstract`, `thesis`, `patent`}.
+
+#### Works
+
+| year | title | authors | published in | DOI | author version | repository |
+|------|-------|---------|--------------|-----|----------------|------------|
+| 2024 | Concepts and Techniques for 3D-Embedded Treemaps and their Application to Software Visualization | Daniel Limberger | Doctoral Thesis, Digital Engineering Faculty / Hasso Plattner Institute for Digital Engineering | [10.25932/publishup-63201](https://doi.org/10.25932/publishup-63201) | | `thesis.2024-dt-embedded-treemaps` |
+| 2023 | Visualization of Source Code Similarity using 2.5D Semantic Software Maps | Daniel Atzberger et al. | VISIGRAPP 2021: Computer Vision, Imaging and Computer Graphics Theory and Applications | [10.1007/978-3-031-25477-2_8](https://doi.org/10.1007/978-3-031-25477-2_8) | | `chapter.2023-ivapp-software-forest-extended` |
+| 2022 | Procedural Texture Patterns for Encoding Changes in Color in 2.5D Treemap Visualizations | Daniel Limberger et al. | Journal of Visualization | [10.1007/s12650-022-00874-3](https://doi.org/10.1007/s12650-022-00874-3) | | `journal.2022-jov-changes` |
+| 2022 | Visual Variables and Configuration of Software Maps | Daniel Limberger et al. | Journal of Visualization | [10.1007/s12650-022-00868-1](https://doi.org/10.1007/s12650-022-00868-1) | | `journal.2022-jov-visvars` |
+| 2022 | Hardware-accelerated Rendering of Web-based 3D Scatter Plots with Projected Density Fields and Embedded Controls | Lukas Wagner et al. | Proc. ACM Int. Conf. on Web3D Technology (Web3D) | [10.1145/3564533.3564566](https://doi.org/10.1145/3564533.3564566) | | `article.2022-web3d-scatter-plot-density` |
+| 2022 | Non-Photorealistic Rendering of 3D Point Clouds for Cartographic Visualization | Ole Wegen et al. | Extended Abstracts of Proc. ICA European Symp. on Cartography (EuroCarto) | [10.5194/ica-abs-5-161-2022](https://doi.org/10.5194/ica-abs-5-161-2022) | | `abstract.2022-eurocarto-pointcloud-cartography` |
+| 2022 | A Benchmark for the Use of Topic Models for Text Visualization Tasks | Daniel Atzberger et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3554944.3554961](https://doi.org/10.1145/3554944.3554961) | | `article.2022-vinci-topicmodel-benchmark` |
+| 2022 | Augmenting Library Development by Mining Usage Data from Downstream Dependencies | Christoph Thiede et al. | Proc. Int. Conf. on Evaluation of Novel Approaches to Software Engineering (ENASE) | [10.5220/0011093700003176](https://doi.org/10.5220/0011093700003176) | | `article.2022-enase-downstream-mining` |
+| 2022 | Mining Developer Expertise from Bug Tracking Systems using the Author-Topic Model | Daniel Atzberger et al. | Proc. Int. Conf. on Evaluation of Novel Approaches to Software Engineering (ENASE) | [10.5220/0011045100003176](https://doi.org/10.5220/0011045100003176) | | `article.2022-enase-mining-expertise` |
+| 2022 | Visualization of Knowledge Distribution across Development Teams using 2.5D Semantic Software Maps | Daniel Atzberger et al. | Proc. Int. Conf. on Information Visualization Theory and Applications (IVAPP) | [10.5220/0010991100003124](https://doi.org/10.5220/0010991100003124) | | `article.2022-ivapp-knowhow-map` |
+| 2022 | A Non-Photorealistic Rendering Technique for Art-directed Hatching of 3D Point Clouds | Ronja Wagner et al. | Proc. Int. Conf. on Computer Graphics Theory and Applications (GRAPP) | [10.5220/0010849500003124](https://doi.org/10.5220/0010849500003124) | | `article.2022-grapp-pointcloud-stylization` |
+| 2021 | Interactive Volumetric Region Growing for Brain Tumor Segmentation on MRI using WebGL | Jonas Kordt et al. | Proc. ACM Int. Conf. on Web3D Technology (Web3D) | [10.1145/3485444.3487640](https://doi.org/10.1145/3485444.3487640) | | `article.2021-web3d-tumor-segmentation` |
+| 2021 | Software Galaxies: Displaying Coding Activities using a Galaxy Metaphor | Daniel Atzberger et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3481549.3481573](https://doi.org/10.1145/3481549.3481573) | | `article.2021-vinci-software-galaxy` |
+| 2021 | Visualization of Data Changes in 2.5D Treemaps using Procedural Textures and Animated Transitions | Daniel Limberger et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3481549.3481570](https://doi.org/10.1145/3481549.3481570) | [Zenodo](https://doi.org/10.5281/zenodo.24056028) | [article.2021-vinci-procedural-textures](https://github.com/dl-archive/article.2021-vinci-procedural-textures) |
+| 2021 | Interactive Simulation and Visualization of Long-Term, ETF-based Investment Strategies | Martin Büßemeyer et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3481549.3481568](https://doi.org/10.1145/3481549.3481568) | | `article.2021-vinci-etf-visualization` |
+| 2021 | RoomCanvas: A Visualization System for Spatiotemporal Temperature Data in Smart Homes | Bastian König et al. | Proc. EG Int. Conf. on Visualization (EuroVis) | [10.2312/evs.20211048](https://doi.org/10.2312/evs.20211048) | | `article.2021-eurovis-roomcanvas` |
+| 2021 | Software Forest: A Visualization of Semantic Similarities in Source Code using a Tree Metaphor | Daniel Atzberger et al. | Proc. Int. Conf. on Information Visualization Theory and Applications (IVAPP) | [10.5220/0010267601120122](https://doi.org/10.5220/0010267601120122) | | `article.2021-ivapp-software-forest` |
+| 2020 | A Framework for Interactive Exploration of Clusters in Massive Data using 3D Scatter Plots and WebGL | Lukas Wagner et al. | Proc. ACM Int. Conf. on Web3D Technology (Web3D) | [10.1145/3424616.3424730](https://doi.org/10.1145/3424616.3424730) | | `poster.2020-web3d-scatter-plot` |
+| 2020 | Physically-based Environment and Area Lighting using Progressive Rendering in WebGL | Philipp Otto et al. | Proc. ACM Int. Conf. on Web3D Technology (Web3D) | [10.1145/3424616.3424697](https://doi.org/10.1145/3424616.3424697) | | `article.2020-web3d-pbr-lighting` |
+| 2020 | Depicting Uncertainty in 2.5D Treemaps | Daniel Limberger et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3430036.3432753](https://doi.org/10.1145/3430036.3432753) | [Zenodo](https://doi.org/10.5281/zenodo.24056633) | [article.2020-vinci-uncertainty](https://github.com/dl-archive/article.2020-vinci-uncertainty) |
+| 2020 | Survey of Treemap Layout Algorithms | Willy Scheibel et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3430036.3430041](https://doi.org/10.1145/3430036.3430041) | | `article.2020-vinci-survey-layouts` |
+| 2020 | Survey on User Studies on the Effectiveness of Treemaps | Carolin Fiedler et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3430036.3430054](https://doi.org/10.1145/3430036.3430054) | | `article.2020-vinci-survey-effectiveness` |
+| 2020 | A Taxonomy of Treemap Visualization Techniques | Willy Scheibel et al. | Proc. Int. Conf. on Information Visualization Theory and Applications (IVAPP) | [10.5220/0009153902730280](https://doi.org/10.5220/0009153902730280) | | `article.2020-treemap-taxonomy` |
+| 2019 | Visualization of Tree-structured Data using Web Service Composition | Willy Scheibel et al. | VISIGRAPP 2019: Computer Vision, Imaging and Computer Graphics Theory and Applications | [10.1007/978-3-030-41590-7_10](https://doi.org/10.1007/978-3-030-41590-7_10) | | `chapter.2019-hiviser-extended` |
+| 2019 | Advanced Visual Metaphors and Techniques for Software Maps | Daniel Limberger et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3356422.3356444](https://doi.org/10.1145/3356422.3356444) | | `article.2019-vinci-advanced` |
+| 2019 | In-Situ Comparison for 2.5D Treemaps | Daniel Limberger et al. | Proc. Int. Conf. on Information Visualization Theory and Applications (IVAPP) | [10.5220/0007576203140321](https://doi.org/10.5220/0007576203140321) | | `article.2019-ivapp-insitu` |
+| 2018 | Interactive, Height-based Filtering in 2.5D Treemaps | Daniel Limberger et al. | Proc. ACM Int. Symp. on Visual Information Communication and Interaction (VINCI) | [10.1145/3231622.3231638](https://doi.org/10.1145/3231622.3231638) | | `article.2018-vinci-reference` |
+| 2018 | OpenLL: an API for Dynamic 2D and 3D Labeling | Daniel Limberger et al. | Proc. IEEE Int. Conf. Information Visualisation (iV) | [10.1109/iV.2018.00039](https://doi.org/10.1109/iV.2018.00039) | | `article.2018-iv-open-ll` |
+| 2018 | Interactive, Adaptive Level-of-Detail in 2.5D Treemaps | Daniel Limberger | United States Patent and Trademark Office |  | | `patent.2018-patent-lod-treemaps` |
+| 2018 | Progressive Rendering using Multi-frame Sampling – Reprint of the GPU Pro 7 Article | Daniel Limberger et al. | GPU Pro 360 Guide to Rendering | [10.1201/9781351261524](https://doi.org/10.1201/9781351261524) | | `chapter.2018-gpu360-multi-frame-sampling` |
+| 2017 | Mixed-Projection Treemaps: A Novel Approach Mixing 2D and 2.5D Treemaps | Daniel Limberger et al. | Proc. IEEE Int. Conf. Information Visualisation (iV) | [10.1109/iV.2017.67](https://doi.org/10.1109/iV.2017.67) | | `article.2017-iv-mixed-projection` |
+| 2017 | Progressive High-Quality Rendering for Interactive Information Cartography using WebGL | Daniel Limberger et al. | Proc. ACM Int. Conf. on 3D Web Technology (Web3D) | [10.1145/3055624.3075951](https://doi.org/10.1145/3055624.3075951) | | `article.2017-web3d-progressive` |
+| 2017 | Reducing Visual Complexity in Software Maps using Importance-based Aggregation of Nodes | Daniel Limberger et al. | Proc. Int. Conf. on Information Visualization Theory and Applications (IVAPP) | [10.5220/0006267501760185](https://doi.org/10.5220/0006267501760185) | | `article.2017-ivapp-aggregation-swmaps` |
+| 2016 | Dynamic 2.5D Treemaps using Declarative 3D on the Web | Daniel Limberger et al. | Proc. ACM Int. Conf. on Web3D Technology (Web3D) | [10.1145/2945292.2945313](https://doi.org/10.1145/2945292.2945313) | | `article.2016-web3d-declarative-treemaps` |
+| 2016 | Real-time Rendering of High-quality Effects using Multi-frame Sampling | Daniel Limberger et al. | ACM SIGGRAPH Posters | [10.1145/2945078.2945157](https://doi.org/10.1145/2945078.2945157) | | `poster.2016-siggraph-multi-frame-sampling` |
+| 2016 | Evaluation of Sketchiness as a Visual Variable for 2.5D Treemaps | Daniel Limberger et al. | Proc. IEEE Int. Conf. Information Visualisation (iV) | [10.1109/IV.2016.61](https://doi.org/10.1109/IV.2016.61) | | `article.2016-iv-sketchiness-treemaps` |
+| 2016 | Progressive Rendering using Multi-frame Sampling | Daniel Limberger et al. | GPU Pro 7: Advanced Rendering Techniques | [10.1201/b21261](https://doi.org/10.1201/b21261) | | `chapter.2016-gpupro-multi-frame-sampling` |
+| 2016 | Image Stylization by Interactive Oil Paint Filtering | Amir Semmo et al. | Computers & Graphics | [10.1016/j.cag.2015.12.001](https://doi.org/10.1016/j.cag.2015.12.001) | | `journal.2016-cgf-oilpaint-stylization` |
+| 2015 | Natural Phenomena as Metaphors for Visualization of Trend Data in Interactive Software Maps | Hannes Würfel et al. | Proc. EG Computer Graphics and Visual Computing (CGVC) | [10.2312/cgvc.20151246](https://doi.org/10.2312/cgvc.20151246) | | `article.2015-cgvc-natural-metaphors` |
+| 2015 | Image Stylization by Oil Paint Filtering using Color Palettes | Amir Semmo et al. | Proc. EG Computational Aesthetics (CAe) | [10.2312/exp.20151188](https://doi.org/10.2312/exp.20151188) | | `article.2015-cae-oilpaint-stylization` |
+| 2014 | Painting Per-Pixel Parametrization for Interactive Image Filtering | Daniel Limberger et al. | ACM/EG Expressive Posters |  | | `poster.2014-expressive-parameter-painting` |
+| 2013 | Interactive Software Maps for Web-Based Source Code Analysis | Daniel Limberger et al. | Proc. ACM Int. Conf. on Web3D Technology (Web3D) | [10.1145/2466533.2466550](https://doi.org/10.1145/2466533.2466550) | | `article.2013-web3d-web-based-swmaps` |
+| 2012 | Single-Pass Rendering of Day and Night Sky Phenomena | Daniel Müller et al. | Proc. EG Int. Workshop on Vision, Modeling, and Visualization (VMV) | [10.2312/PE/VMV/VMV12/055-062](https://doi.org/10.2312/PE/VMV/VMV12/055-062) | | `article.2012-vmv-sky-phenomena` |
+| 2012 | Photorealistisches Rendering atmosphärischer Effekte in geovirtuellen 3D-Umgebungen in Echtzeit | Daniel Müller | Master's Thesis in IT-Systems Engineering, Hasso Plattner Institute |  | | `thesis.2012-mt-sky-rendering` |
+| 2009 | Computergenerierte Bleistiftzeichnungen von 3D-Stadtmodellen | Daniel Müller | Bachelor's Thesis in IT-Systems Engineering, Hasso Plattner Institute |  | | `thesis.2009-bt-pencil-synthesis` |
