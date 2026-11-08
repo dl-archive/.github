@@ -41,7 +41,7 @@ Newest first. Status: latest tag · author's version on Zenodo.
 - [`article.2020-web3d-pbr-lighting`](https://github.com/dl-archive/article.2020-web3d-pbr-lighting) – v1.0-camera-ready · Zenodo
 - [`article.2020-vinci-uncertainty`](https://github.com/dl-archive/article.2020-vinci-uncertainty) – v1.1-revised · Zenodo
 - `article.2020-vinci-survey-layouts` – not archived yet
-- `article.2020-vinci-survey-effectiveness` – v1.0-camera-ready (in review)
+- [`article.2020-vinci-survey-effectiveness`](https://github.com/dl-archive/article.2020-vinci-survey-effectiveness) – v1.0-camera-ready
 - `article.2020-treemap-taxonomy` – not archived yet
 - `article.2019-vinci-advanced` – not archived yet
 - `article.2019-ivapp-insitu` – not archived yet
