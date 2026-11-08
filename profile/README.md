@@ -69,7 +69,7 @@ Works are listed newest first, with their BibTeX key. Works without links are no
 **2020**
 
 - *A Framework for Interactive Exploration of Clusters in Massive Data using 3D Scatter Plots and WebGL* – Lukas Wagner et al., Web3D · `wagner2020-scatter`  
-  [DOI](https://doi.org/10.1145/3424616.3424730)
+  [DOI](https://doi.org/10.1145/3424616.3424730) · [Paper (Zenodo)](https://doi.org/10.5281/zenodo.24061447) · [Sources (GitHub)](https://github.com/dl-archive/poster.2020-web3d-scatter-plot)
 - *Physically-based Environment and Area Lighting using Progressive Rendering in WebGL* – Philipp Otto et al., Web3D · `otto2020-pbr-lighting`  
   [DOI](https://doi.org/10.1145/3424616.3424697)
 - *Depicting Uncertainty in 2.5D Treemaps* – Daniel Limberger et al., VINCI · `limberger2020-uncertainty`  
