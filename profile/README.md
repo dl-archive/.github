@@ -29,8 +29,8 @@ Newest first. Versions link to the author's PDFs on Zenodo (v1.0 = as submitted,
 - `article.2022-ivapp-knowhow-map` – not archived yet
 - [`article.2022-grapp-pointcloud-stylization`](https://github.com/dl-archive/article.2022-grapp-pointcloud-stylization) – [v1.0](https://doi.org/10.5281/zenodo.24059251) / [v1.1](https://doi.org/10.5281/zenodo.24060034)
 - `abstract.2022-eurocarto-pointcloud-cartography` – not archived yet
-- `article.2022-enase-mining-expertise` – not archived yet
-- `article.2022-enase-downstream-mining` – not archived yet
+- [`article.2022-enase-mining-expertise`](https://github.com/dl-archive/article.2022-enase-mining-expertise) – v1.0-camera-ready
+- [`article.2022-enase-downstream-mining`](https://github.com/dl-archive/article.2022-enase-downstream-mining) – v1.0-camera-ready
 - [`article.2021-web3d-tumor-segmentation`](https://github.com/dl-archive/article.2021-web3d-tumor-segmentation) – [v1.0](https://doi.org/10.5281/zenodo.24101028) / [v1.1](https://doi.org/10.5281/zenodo.24101129)
 - [`article.2021-vinci-software-galaxy`](https://github.com/dl-archive/article.2021-vinci-software-galaxy) – [v1.0](https://doi.org/10.5281/zenodo.24100141) / [v1.1](https://doi.org/10.5281/zenodo.24100158)
 - [`article.2021-vinci-procedural-textures`](https://github.com/dl-archive/article.2021-vinci-procedural-textures) – [v1.0](https://doi.org/10.5281/zenodo.24056029) / [v1.1](https://doi.org/10.5281/zenodo.24056485) / [v1.2](https://doi.org/10.5281/zenodo.24057148)
@@ -40,9 +40,9 @@ Newest first. Versions link to the author's PDFs on Zenodo (v1.0 = as submitted,
 - [`poster.2020-web3d-scatter-plot`](https://github.com/dl-archive/poster.2020-web3d-scatter-plot) – [v1.0](https://doi.org/10.5281/zenodo.24061448) / [v1.1](https://doi.org/10.5281/zenodo.24062278)
 - [`article.2020-web3d-pbr-lighting`](https://github.com/dl-archive/article.2020-web3d-pbr-lighting) – [v1.0](https://doi.org/10.5281/zenodo.24061873) / [v1.1](https://doi.org/10.5281/zenodo.24062375)
 - [`article.2020-vinci-uncertainty`](https://github.com/dl-archive/article.2020-vinci-uncertainty) – [v1.0](https://doi.org/10.5281/zenodo.24056634) / [v1.1](https://doi.org/10.5281/zenodo.24057016)
-- `article.2020-vinci-survey-layouts` – v1.0-camera-ready (in review)
+- `article.2020-vinci-survey-layouts` – [v1.0](https://doi.org/10.5281/zenodo.24121574)
 - [`article.2020-vinci-survey-effectiveness`](https://github.com/dl-archive/article.2020-vinci-survey-effectiveness) – [v1.0](https://doi.org/10.5281/zenodo.24061877) / [v1.1](https://doi.org/10.5281/zenodo.24062276)
-- `article.2020-treemap-taxonomy` – v1.0-camera-ready (in review)
+- `article.2020-treemap-taxonomy` – [v1.0](https://doi.org/10.5281/zenodo.24121564)
 - `article.2019-vinci-advanced` – not archived yet
 - `article.2019-ivapp-insitu` – not archived yet
 - `chapter.2019-hiviser-extended` – not archived yet
