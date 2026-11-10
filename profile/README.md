@@ -24,7 +24,7 @@ Newest first. Versions link to the author's PDFs on Zenodo (v1.0 = as submitted,
 - `chapter.2023-ivapp-software-forest-extended` – not archived yet
 - [`article.2022-web3d-scatter-plot-density`](https://github.com/dl-archive/article.2022-web3d-scatter-plot-density) – [v1.0](https://doi.org/10.5281/zenodo.24061771) / [v1.1](https://doi.org/10.5281/zenodo.24062346)
 - `article.2022-vinci-topicmodel-benchmark` – not archived yet
-- [`journal.2022-jov-visvars`](https://github.com/dl-archive/journal.2022-jov-visvars) – [v1.0](https://doi.org/10.5281/zenodo.24121135)
+- [`journal.2022-jov-visvars`](https://github.com/dl-archive/journal.2022-jov-visvars) – [v1.0](https://doi.org/10.5281/zenodo.24121135) / [v1.1](https://doi.org/10.5281/zenodo.24121250)
 - [`journal.2022-jov-changes`](https://github.com/dl-archive/journal.2022-jov-changes) – [v1.0](https://doi.org/10.5281/zenodo.24120829) / [v1.1](https://doi.org/10.5281/zenodo.24120902)
 - `article.2022-ivapp-knowhow-map` – not archived yet
 - [`article.2022-grapp-pointcloud-stylization`](https://github.com/dl-archive/article.2022-grapp-pointcloud-stylization) – [v1.0](https://doi.org/10.5281/zenodo.24059251) / [v1.1](https://doi.org/10.5281/zenodo.24060034)
@@ -38,7 +38,7 @@ Newest first. Versions link to the author's PDFs on Zenodo (v1.0 = as submitted,
 - [`article.2021-ivapp-software-forest`](https://github.com/dl-archive/article.2021-ivapp-software-forest) – [v1.0](https://doi.org/10.5281/zenodo.24060501) / [v1.1](https://doi.org/10.5281/zenodo.24060763)
 - [`article.2021-eurovis-roomcanvas`](https://github.com/dl-archive/article.2021-eurovis-roomcanvas) – [v1.0](https://doi.org/10.5281/zenodo.24059175) / [v1.1](https://doi.org/10.5281/zenodo.24059374)
 - [`poster.2020-web3d-scatter-plot`](https://github.com/dl-archive/poster.2020-web3d-scatter-plot) – [v1.0](https://doi.org/10.5281/zenodo.24061448) / [v1.1](https://doi.org/10.5281/zenodo.24062278)
-- [`article.2020-web3d-pbr-lighting`](https://github.com/dl-archive/article.2020-web3d-pbr-lighting) – [v1.0](https://doi.org/10.5281/zenodo.24061873)
+- [`article.2020-web3d-pbr-lighting`](https://github.com/dl-archive/article.2020-web3d-pbr-lighting) – [v1.0](https://doi.org/10.5281/zenodo.24061873) / [v1.1](https://doi.org/10.5281/zenodo.24062375)
 - [`article.2020-vinci-uncertainty`](https://github.com/dl-archive/article.2020-vinci-uncertainty) – [v1.0](https://doi.org/10.5281/zenodo.24056634) / [v1.1](https://doi.org/10.5281/zenodo.24057016)
 - `article.2020-vinci-survey-layouts` – v1.0-camera-ready (in review)
 - [`article.2020-vinci-survey-effectiveness`](https://github.com/dl-archive/article.2020-vinci-survey-effectiveness) – [v1.0](https://doi.org/10.5281/zenodo.24061877) / [v1.1](https://doi.org/10.5281/zenodo.24062276)
