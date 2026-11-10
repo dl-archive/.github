@@ -25,7 +25,7 @@ Newest first. Status: latest tag · author's version on Zenodo.
 - [`article.2022-web3d-scatter-plot-density`](https://github.com/dl-archive/article.2022-web3d-scatter-plot-density) – v1.1-revised · Zenodo
 - `article.2022-vinci-topicmodel-benchmark` – not archived yet
 - `journal.2022-jov-visvars` – not archived yet
-- `journal.2022-jov-changes` – not archived yet
+- [`journal.2022-jov-changes`](https://github.com/dl-archive/journal.2022-jov-changes) – v1.1-revised
 - `article.2022-ivapp-knowhow-map` – not archived yet
 - [`article.2022-grapp-pointcloud-stylization`](https://github.com/dl-archive/article.2022-grapp-pointcloud-stylization) – v1.1-revised · Zenodo
 - `abstract.2022-eurocarto-pointcloud-cartography` – not archived yet
