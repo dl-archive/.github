@@ -32,7 +32,7 @@ Newest first. Status: latest tag · author's version on Zenodo.
 - `article.2022-enase-mining-expertise` – not archived yet
 - `article.2022-enase-downstream-mining` – not archived yet
 - `article.2021-web3d-tumor-segmentation` – not archived yet
-- `article.2021-vinci-software-galaxy` – not archived yet
+- [`article.2021-vinci-software-galaxy`](https://github.com/dl-archive/article.2021-vinci-software-galaxy) – v1.1-revised · Zenodo
 - [`article.2021-vinci-procedural-textures`](https://github.com/dl-archive/article.2021-vinci-procedural-textures) – v1.2-revised · Zenodo
 - [`article.2021-vinci-etf-visualization`](https://github.com/dl-archive/article.2021-vinci-etf-visualization) – v1.1-revised · Zenodo
 - [`article.2021-ivapp-software-forest`](https://github.com/dl-archive/article.2021-ivapp-software-forest) – v1.1-revised · Zenodo
