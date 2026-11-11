@@ -26,11 +26,11 @@ Newest first. Versions link to the author's PDFs on Zenodo (v1.0 = as submitted,
 - `article.2022-vinci-topicmodel-benchmark` – not archived yet
 - [`journal.2022-jov-visvars`](https://github.com/dl-archive/journal.2022-jov-visvars) – [v1.0](https://doi.org/10.5281/zenodo.24121135) / [v1.1](https://doi.org/10.5281/zenodo.24121250)
 - [`journal.2022-jov-changes`](https://github.com/dl-archive/journal.2022-jov-changes) – [v1.0](https://doi.org/10.5281/zenodo.24120829) / [v1.1](https://doi.org/10.5281/zenodo.24120902)
-- `article.2022-ivapp-knowhow-map` – not archived yet
+- `article.2022-ivapp-knowhow-map` – [v1.0](https://doi.org/10.5281/zenodo.24121994)
 - [`article.2022-grapp-pointcloud-stylization`](https://github.com/dl-archive/article.2022-grapp-pointcloud-stylization) – [v1.0](https://doi.org/10.5281/zenodo.24059251) / [v1.1](https://doi.org/10.5281/zenodo.24060034)
 - `abstract.2022-eurocarto-pointcloud-cartography` – not archived yet
-- [`article.2022-enase-mining-expertise`](https://github.com/dl-archive/article.2022-enase-mining-expertise) – [v1.0](https://doi.org/10.5281/zenodo.24121767)
-- [`article.2022-enase-downstream-mining`](https://github.com/dl-archive/article.2022-enase-downstream-mining) – [v1.0](https://doi.org/10.5281/zenodo.24121769)
+- [`article.2022-enase-mining-expertise`](https://github.com/dl-archive/article.2022-enase-mining-expertise) – [v1.0](https://doi.org/10.5281/zenodo.24121767) / [v1.1](https://doi.org/10.5281/zenodo.24121955)
+- [`article.2022-enase-downstream-mining`](https://github.com/dl-archive/article.2022-enase-downstream-mining) – [v1.0](https://doi.org/10.5281/zenodo.24121769) / [v1.1](https://doi.org/10.5281/zenodo.24121957)
 - [`article.2021-web3d-tumor-segmentation`](https://github.com/dl-archive/article.2021-web3d-tumor-segmentation) – [v1.0](https://doi.org/10.5281/zenodo.24101028) / [v1.1](https://doi.org/10.5281/zenodo.24101129)
 - [`article.2021-vinci-software-galaxy`](https://github.com/dl-archive/article.2021-vinci-software-galaxy) – [v1.0](https://doi.org/10.5281/zenodo.24100141) / [v1.1](https://doi.org/10.5281/zenodo.24100158)
 - [`article.2021-vinci-procedural-textures`](https://github.com/dl-archive/article.2021-vinci-procedural-textures) – [v1.0](https://doi.org/10.5281/zenodo.24056029) / [v1.1](https://doi.org/10.5281/zenodo.24056485) / [v1.2](https://doi.org/10.5281/zenodo.24057148)
