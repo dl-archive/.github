@@ -21,7 +21,7 @@ Naming: `<type>.<year>-<venue>-<topic>`, where type ∈ {`article`, `journal`, `
 Newest first. Versions link to the author's PDFs on Zenodo (v1.0 = as submitted, v1.x = revised).
 
 - `thesis.2024-dt-embedded-treemaps` – not archived yet
-- `chapter.2023-ivapp-software-forest-extended` – not archived yet
+- [`chapter.2023-ivapp-software-forest-extended`](https://github.com/dl-archive/chapter.2023-ivapp-software-forest-extended) – [v1.0](https://doi.org/10.5281/zenodo.24122132)
 - [`article.2022-web3d-scatter-plot-density`](https://github.com/dl-archive/article.2022-web3d-scatter-plot-density) – [v1.0](https://doi.org/10.5281/zenodo.24061771) / [v1.1](https://doi.org/10.5281/zenodo.24062346)
 - `article.2022-vinci-topicmodel-benchmark` – not archived yet
 - [`journal.2022-jov-visvars`](https://github.com/dl-archive/journal.2022-jov-visvars) – [v1.0](https://doi.org/10.5281/zenodo.24121135) / [v1.1](https://doi.org/10.5281/zenodo.24121250)
