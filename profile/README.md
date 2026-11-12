@@ -43,12 +43,12 @@ Newest first. Versions link to the author's PDFs on Zenodo (v1.0 = as submitted,
 - [`article.2020-vinci-survey-layouts`](https://github.com/dl-archive/article.2020-vinci-survey-layouts) – [v1.0](https://doi.org/10.5281/zenodo.24121574)
 - [`article.2020-vinci-survey-effectiveness`](https://github.com/dl-archive/article.2020-vinci-survey-effectiveness) – [v1.0](https://doi.org/10.5281/zenodo.24061877) / [v1.1](https://doi.org/10.5281/zenodo.24062276)
 - [`article.2020-treemap-taxonomy`](https://github.com/dl-archive/article.2020-treemap-taxonomy) – [v1.0](https://doi.org/10.5281/zenodo.24121564)
-- `article.2019-vinci-advanced` – not archived yet
+- [`article.2019-vinci-advanced`](https://github.com/dl-archive/article.2019-vinci-advanced) – [v1.0](https://doi.org/10.5281/zenodo.24176615)
 - `article.2019-ivapp-insitu` – not archived yet
 - `chapter.2019-hiviser-extended` – not archived yet
-- `article.2018-vinci-reference` – not archived yet
+- [`article.2018-vinci-reference`](https://github.com/dl-archive/article.2018-vinci-reference) – [v1.0](https://doi.org/10.5281/zenodo.24176595)
 - `patent.2018-patent-lod-treemaps` – not archived yet
-- `article.2018-iv-open-ll` – not archived yet
+- [`article.2018-iv-open-ll`](https://github.com/dl-archive/article.2018-iv-open-ll) – [v1.0](https://doi.org/10.5281/zenodo.24176589)
 - `chapter.2018-gpu360-multi-frame-sampling` – not archived yet
 - `article.2017-web3d-progressive` – not archived yet
 - `article.2017-ivapp-aggregation-swmaps` – not archived yet
