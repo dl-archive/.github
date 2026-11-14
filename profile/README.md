@@ -52,16 +52,16 @@ Newest first. Versions link to the author's PDFs on Zenodo (v1.0 = as submitted,
 - `chapter.2018-gpu360-multi-frame-sampling` – not archived yet
 - `article.2017-web3d-progressive` – v1.0-camera-ready (in review)
 - `article.2017-ivapp-aggregation-swmaps` – v1.0-camera-ready (in review)
-- [`article.2017-iv-mixed-projection`](https://github.com/dl-archive/article.2017-iv-mixed-projection) – [v1.0](https://doi.org/10.5281/zenodo.24220716)
-- [`article.2016-web3d-declarative-treemaps`](https://github.com/dl-archive/article.2016-web3d-declarative-treemaps) – [v1.0](https://doi.org/10.5281/zenodo.24220759)
+- [`article.2017-iv-mixed-projection`](https://github.com/dl-archive/article.2017-iv-mixed-projection) – [v1.0](https://doi.org/10.5281/zenodo.24220716) / [v1.1](https://doi.org/10.5281/zenodo.24221318)
+- [`article.2016-web3d-declarative-treemaps`](https://github.com/dl-archive/article.2016-web3d-declarative-treemaps) – [v1.0](https://doi.org/10.5281/zenodo.24220759) / [v1.1](https://doi.org/10.5281/zenodo.24221324)
 - `poster.2016-siggraph-multi-frame-sampling` – not archived yet
-- [`article.2016-iv-sketchiness-treemaps`](https://github.com/dl-archive/article.2016-iv-sketchiness-treemaps) – [v1.0](https://doi.org/10.5281/zenodo.24220783)
+- [`article.2016-iv-sketchiness-treemaps`](https://github.com/dl-archive/article.2016-iv-sketchiness-treemaps) – [v1.0](https://doi.org/10.5281/zenodo.24220783) / [v1.1](https://doi.org/10.5281/zenodo.24221330)
 - `chapter.2016-gpupro-multi-frame-sampling` – not archived yet
 - `journal.2016-cgf-oilpaint-stylization` – not archived yet
 - `article.2015-cgvc-natural-metaphors` – v1.0-camera-ready (in review)
 - `article.2015-cae-oilpaint-stylization` – not archived yet
 - `poster.2014-expressive-parameter-painting` – not archived yet
-- [`article.2013-web3d-web-based-swmaps`](https://github.com/dl-archive/article.2013-web3d-web-based-swmaps) – [v1.0](https://doi.org/10.5281/zenodo.24220772)
-- [`article.2012-vmv-sky-phenomena`](https://github.com/dl-archive/article.2012-vmv-sky-phenomena) – [v1.0](https://doi.org/10.5281/zenodo.24220796)
+- [`article.2013-web3d-web-based-swmaps`](https://github.com/dl-archive/article.2013-web3d-web-based-swmaps) – [v1.0](https://doi.org/10.5281/zenodo.24220772) / [v1.1](https://doi.org/10.5281/zenodo.24221347)
+- [`article.2012-vmv-sky-phenomena`](https://github.com/dl-archive/article.2012-vmv-sky-phenomena) – [v1.0](https://doi.org/10.5281/zenodo.24220796) / [v1.1](https://doi.org/10.5281/zenodo.24221329)
 - `thesis.2012-mt-sky-rendering` – not archived yet
 - `thesis.2009-bt-pencil-synthesis` – not archived yet
